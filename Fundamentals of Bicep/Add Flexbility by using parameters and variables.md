@@ -1,0 +1,10 @@
+---
+tags:
+  - bicep
+  - syntax
+---
+
+
+
+
+

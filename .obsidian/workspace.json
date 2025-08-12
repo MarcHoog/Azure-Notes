@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "9e80d824b03d5bb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbdb3322556987b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5924ecb70b29b422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Bicep/Bicep Modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bicep Modules"
+            }
+          },
+          {
+            "id": "c9a20b578b40d7b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Bicep/Bicep Modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bicep Modules"
+            }
+          },
+          {
+            "id": "e7efa54b19e2fe92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad294501bdcf9619",
+    "type": "split",
+    "children": [
+      {
+        "id": "9004334cfe47bbd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d4ebe46496bffbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3d038f60f38fc77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a54fd8c34b9e01a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fe3fe93b3ff97e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b540ccfec9d819e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a10043fa98d703f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentals of Bicep/Bicep Modules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bicep Modules"
+            }
+          },
+          {
+            "id": "d886c795c74cb457",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fundamentals of Bicep/Bicep Modules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bicep Modules"
+            }
+          },
+          {
+            "id": "89b13b7227ed9623",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "34c1d6a13db46628",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fundamentals of Bicep/Bicep Modules.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bicep Modules"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "c9a20b578b40d7b8",
+  "lastOpenFiles": [
+    "Az 104",
+    "Untitled.md",
+    "Fundamentals of Bicep/Bicep Modules.md",
+    "Fundamentals of Bicep/Add Flexiblity using parameters/Selecting SKUs for resources.md",
+    "Fundamentals of Bicep/Add Flexiblity using parameters/Parameter.md",
+    "Fundamentals of Bicep/Azure verified modules.md",
+    "templates/getting_started/modules/appService.bicep",
+    "templates/getting_started/modules",
+    "templates/getting_started/appService.bicep",
+    "templates/getting_started/app",
+    "templates/getting_started/main.bicep",
+    "templates/getting_started",
+    "templates/main.bicep",
+    "templates",
+    "Fundamentals of Bicep/Add Flexiblity using parameters/Outputs.md",
+    "Fundamentals of Bicep/Add Flexbility by using parameters and variables.md",
+    "Fundamentals of Bicep/Add Flexiblity using parameters/Expressions.md",
+    "Fundamentals of Bicep/Add Flexiblity using parameters/Add flexibity using parameters.md",
+    "Fundamentals of Bicep/Add Flexiblity using parameters",
+    "Fundamentals of Bicep/Errors.md",
+    "Fundamentals of Bicep/Imperative and declarative.md",
+    "Fundamentals of Bicep/templates/Getting started.md",
+    "Fundamentals of Bicep/templates/main.bicep",
+    "2025-08-12.md",
+    "Fundamentals of Bicep/Declarative code example.md",
+    "Fundamentals of Bicep/What is impodance.md",
+    "Fundamentals of Bicep/Imperative code example.md",
+    "Fundamentals of Bicep/Defining iac.md",
+    "Fundamentals of Bicep/Why use infrastructure as code.md",
+    "Fundamentals of Bicep/Commands.md",
+    "Untitled.canvas",
+    "Fundamentals of Bicep/Untitled.canvas",
+    "resources/README.md",
+    "README.md"
+  ]
+}
